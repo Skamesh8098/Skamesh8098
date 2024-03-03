@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skamesh8098
+- 👋 Hi, I’m Kamesh
 - 👀 I’m interested in Robotics & Artificial Intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
